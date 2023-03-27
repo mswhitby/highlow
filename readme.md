@@ -1,4 +1,4 @@
-[Open on Replit](https://replit.com/@whs-spring-2023/HighLow-Assignment)
+[Open on Replit](https://replit.com/@whs-spring-2023/HighLow-Tips)
 
 #HighLow
 
